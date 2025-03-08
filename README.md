@@ -1,10 +1,10 @@
-# ForntCam
+# FrontCam
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![ForntCam]()
+![FrontCam]()
 
-# What is ForntCam?![Forntcam](https://github.com/user-attachments/assets/e09ea49c-0e95-4c77-8afb-9f49d2f3ffb0)
+# What is FrontCam?![FrontCam](https://github.com/user-attachments/assets/e09ea49c-0e95-4c77-8afb-9f49d2f3ffb0)
 
-<p>ForntCam is techniques to take cam shots of target's phone front camera or PC webcam. ForntCam Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
+<p>FrontCam is techniques to take cam shots of target's phone front camera or PC webcam. FrontCam Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
 
 ## Features
 <p>In this tool I added two automatic webpage templates for engaged target on webpage to get more picture of cam</p>
