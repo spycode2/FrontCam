@@ -16,7 +16,8 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
 <p>simply enter festival name or youtube's video ID</p>
 
 ## This Tool Tested On :
-<ul>
+<ul
+
   <li>Kali Linux</li>
   <li>Termux</li>
   <li>MacOS</li>
@@ -39,3 +40,4 @@ cd FrontCam
 bash frontcam.sh
 ```
 
+Tutorial Video -->> https://youtu.be/G6ADBIg7rwE?si=nt65zZcU93uljoGm
